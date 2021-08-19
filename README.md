@@ -1,6 +1,6 @@
 # TinyServ
 
-TinyServer is a small simple threaded solution to make dotnet functions available to the web.
+TinyServer is a small single-threaded class that makes your dotnet functions available via http.
 
 You just define an endpoint url and a handler. See the example project for a working console application.
 
