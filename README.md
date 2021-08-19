@@ -13,7 +13,7 @@ You just define an endpoint url and a handler. See the example project for a wor
 
 ## Usage:
 
-```
+```csharp
 var ts = new TinyServer(8080);
 ts.Serve("/empty", HttpMethod.Get, request => Console.WriteLine("This does not give content"));
 ts.Serve("/json", HttpMethod.Get, request => new { Message = "this is json content" });
