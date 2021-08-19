@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyServ", "TinyServ\TinyServ.csproj", "{A98C3270-17D6-409C-A55A-DFB0B28F8024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{A08F0B9F-53FD-4557-A23F-F1814610A329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98C3270-17D6-409C-A55A-DFB0B28F8024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98C3270-17D6-409C-A55A-DFB0B28F8024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98C3270-17D6-409C-A55A-DFB0B28F8024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98C3270-17D6-409C-A55A-DFB0B28F8024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08F0B9F-53FD-4557-A23F-F1814610A329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08F0B9F-53FD-4557-A23F-F1814610A329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08F0B9F-53FD-4557-A23F-F1814610A329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08F0B9F-53FD-4557-A23F-F1814610A329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
